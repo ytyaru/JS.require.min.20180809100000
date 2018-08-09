@@ -1,6 +1,6 @@
 # このソフトウェアについて
 
-[require.js](http://requirejs.org/)の使い方（最小コード）。
+[require.js](http://requirejs.org/)の使い方（最小コード）。[demo](https://ytyaru.github.io/JS.require.min.20180809100000)
 
 # 開発環境
 
